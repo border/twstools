@@ -65,3 +65,17 @@ m4/argz.m4
 m4/libtool.m4
 m4/lt*.m4
 ltmain.sh
+
+## make
+doc/twsdo.1
+doc/twsgen.1
+src/.libs/
+src/proof_of_concept.la
+src/proof_of_concept.lo
+src/twsdo_ggo.c
+src/twsdo_ggo.h
+src/twsgen_ggo.c
+src/twsgen_ggo.h
+src/version.c
+twstools.pc
+version.mk
